@@ -1,0 +1,28 @@
+{
+  "clientes": [
+    {
+      "nombre": "Javier- actualizado",
+      "empresa": "Javixd",
+      "email": "correo@corre.com",
+      "telefono": "3938484930",
+      "notas": "",
+      "id": 1
+    },
+    {
+      "nombre": "javi",
+      "empresa": "klasdj",
+      "email": "lkajsdlkj@corre.com",
+      "telefono": "234234234",
+      "notas": "",
+      "id": 3
+    },
+    {
+      "nombre": "Javier - Nuevo - editado",
+      "empresa": "kjasdjas",
+      "email": "email@email.com",
+      "telefono": "3839203323",
+      "notas": "nota de un cliente xd",
+      "id": 5
+    }
+  ]
+}
